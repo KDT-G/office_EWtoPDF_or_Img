@@ -1,0 +1,10 @@
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.exe.config
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.exe
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.pdb
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Office_Demo.resources
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Compress_Demo.resources
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Properties.Resources.resources
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.csproj.GenerateResource.cache
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.csproj.CoreCompileInputs.cache
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.exe
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.pdb
