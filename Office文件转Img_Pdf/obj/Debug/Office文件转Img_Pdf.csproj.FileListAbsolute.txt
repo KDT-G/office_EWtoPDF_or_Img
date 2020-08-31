@@ -8,3 +8,13 @@ E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office�
 E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.csproj.CoreCompileInputs.cache
 E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.exe
 E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.pdb
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.exe.config
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.exe
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\bin\Debug\Office文件转Img_Pdf.pdb
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Office_Demo.resources
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Compress_Demo.resources
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.Properties.Resources.resources
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.csproj.GenerateResource.cache
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.csproj.CoreCompileInputs.cache
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.exe
+C:\Users\98468\Desktop\我的项目\office_EWtoPDF_or_Img\Office文件转Img_Pdf\obj\Debug\Office文件转Img_Pdf.pdb

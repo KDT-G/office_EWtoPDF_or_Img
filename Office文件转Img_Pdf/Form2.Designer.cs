@@ -304,7 +304,9 @@
             this.Controls.Add(this.OutPathButton);
             this.Controls.Add(this.InputPath);
             this.Controls.Add(this.InputPathButton);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Compress_Demo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "图片压缩";
