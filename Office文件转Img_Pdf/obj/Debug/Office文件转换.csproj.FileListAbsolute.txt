@@ -1,0 +1,13 @@
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Aspose.Cells.dll
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Spire.License.dll
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Spire.Pdf.dll
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.csproj.GenerateResource.cache
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.csproj.CoreCompileInputs.cache
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.csproj.CopyComplete
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Office文件转换.exe
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\bin\Debug\Office文件转换.pdb
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.exe
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.pdb
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.Office_Demo.resources
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.Properties.Resources.resources
+E:\我的小Demo\Office文件转Img_Pdf\Office文件转Img_Pdf\obj\Debug\Office文件转换.Compress_Demo.resources

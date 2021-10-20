@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("解决office文件的一些转换功能+图片压缩功能")]
-[assembly: AssemblyDescription("解决office文件的一些转换功能")]
+[assembly: AssemblyTitle("Office文件转换")]
+[assembly: AssemblyDescription("解决office文件的一些转换功能+图片压缩功能")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("小菜鸟出品")]
-[assembly: AssemblyProduct("Office文件转图片PDF")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyProduct("Office文件转换")]
+[assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
